@@ -86,17 +86,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaBandal11&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaBandal11&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBandal11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=AdityaBandal11&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=AdityaBandal11&theme=neon&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBandal11&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
