@@ -95,15 +95,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AdityaBandal11&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
-
----
-
-## 📈 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AdityaBandal11&icon=2&color=12" />
-</p>
-
 ---
 
 ⭐ *Consistency, curiosity, and code — that’s how I grow as an engineer.*
