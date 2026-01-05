@@ -47,7 +47,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/(www.linkedin.com/inaditya-bandal-566450319)" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-bandal-566450319" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://instagram.com/aditya_bandal_11" target="_blank">
