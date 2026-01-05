@@ -1,21 +1,117 @@
-# 💫 About Me:
-👋 Introduction<br>Hi, I'm Aditya 👋  <br>An engineering student passionate about software development, problem solving, and building practical projects using modern technologies.<br><br>🔭 I’m currently working on<br>• Data Structures & Algorithms projects  <br>• Web development projects using HTML, CSS, JavaScript  <br>• Academic lab projects (DSA, CNS, OS)<br><br>👯 I’m looking to collaborate on<br>• Beginner-friendly open source projects  <br>• Web development and JavaScript-based projects  <br>• Hackathons and college-level tech projects<br><br>🤝 I’m looking for help with<br>• Improving DSA problem-solving skills  <br>• Writing clean and optimized code  <br>• Learning backend development<br><br>🌱 I’m currently learning<br>• Data Structures and Algorithms  <br>• JavaScript & modern web development  <br>• Git, GitHub, and open-source workflows<br><br>💬 Ask me about<br>• C / C++ / Python basics  <br>• HTML, CSS, JavaScript  <br>• Git & GitHub  <br>• Engineering academics and lab projects<br>
+<h1 align="center">Hi 👋, I'm Aditya Bandal</h1>
+<h3 align="center">Engineering Student | Aspiring Software Developer</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/fPe3r35T) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_bandal_11) [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.vecteezy.com/png/23986970-linkedin-logo-png-linkedin-logo-transparent-png-linkedin-icon-transparent-free-png))](https://linkedin.com/in/https://www.linkedin.com/feed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityabandal120@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaBandal11&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdityaBandal11&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBandal11&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdityaBandal11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  💻 Passionate about building real-world applications <br>
+  🚀 Focused on Data Structures, Web Development & Problem Solving <br>
+  🌱 Learning consistently and improving every day
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdityaBandal11&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 Engineering student at **SPPU**
+- 🔭 Currently working on **DSA & Web Development projects**
+- 🌱 Learning **JavaScript, Backend Basics & Open Source**
+- 👯 Open to **collaborations, hackathons & team projects**
+- 🎯 Goal: Become a **skilled and industry-ready software engineer**
+
+---
+
+## 🚀 What I’m Up To
+
+**🔧 Currently Working On**
+- Data Structures & Algorithms  
+- Web apps using HTML, CSS & JavaScript  
+- Academic lab projects (DSA, CNS, OS)
+
+**🤝 Looking to Collaborate On**
+- Beginner-friendly open-source projects  
+- Web development & JavaScript projects  
+- Hackathons & college tech events  
+
+**🧠 Looking for Help With**
+- Optimizing DSA problem-solving techniques  
+- Writing clean, maintainable code  
+- Backend development fundamentals  
+
+**💬 Ask Me About**
+- C / C++ / Python  
+- HTML, CSS, JavaScript  
+- Git & GitHub workflows  
+- Engineering academics & lab projects  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/aditya_bandal_11" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:adityabandal120@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://discord.gg/fPe3r35T" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+</p>
+
+### 🎨 Design Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaBandal11&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdityaBandal11&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBandal11&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaBandal11&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AdityaBandal11&icon=2&color=12" />
+</p>
+
+---
+
+⭐ *Consistency, curiosity, and code — that’s how I grow as an engineer.*
