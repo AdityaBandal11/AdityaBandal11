@@ -90,11 +90,4 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaBandal11&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
----
-
 ⭐ *Consistency, curiosity, and code — that’s how I grow as an engineer.*
